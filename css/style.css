@@ -154,10 +154,9 @@ progress[value]::-webkit-progress-bar {
 }
 .skils ul li {
    padding-top: 15px;
-    
    display: flex;
-    justify-content: flex-end;
-    margin-right: 25px;
+    justify-content: center;
+   
  
 }
 
